@@ -1,6 +1,2 @@
-My Awesome Book
+電子部品基礎
 =======
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-aaaa
